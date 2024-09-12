@@ -26,7 +26,7 @@
         <meta name="author" content="SELTOTO">
         <meta name="distribution" content="global">
         <meta name="publisher" content="SELTOTO">
-        <meta name="google-site-verification" content="CWLsL1hp_dsxFah-STcOZLWvzYzYc1HE30P_4j7xcU8" />
+       <meta name="google-site-verification" content="KScisIJKYaflaHJpBulZ2tXExM3lzo5BvFwr14-kAEI" />
 		<link rel="amphtml" href="https://pub-832c9e34e2ad498faf01037ac516fb2f.r2.dev/index.html" />
 		
         <script async src="https://cdn.ampproject.org/v0.js"></script>
